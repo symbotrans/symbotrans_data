@@ -3,7 +3,7 @@ fonetiktranslatør (fotrans)
 
 fotrans is basically a set of data to be used with
 [symbotrans](https://github.com/abelbabel/symbotrans), the symbol
-translator. With this data set symbtrans will get an application that
+translator. With this data set symbotrans will get an application that
 can translate between mulitple phonetic transcription systems used in
 the danish laguage.
 
