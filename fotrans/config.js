@@ -14,7 +14,7 @@ const variationSwitch = [ "mit", "ohne"];
 
 const title = "fonetiktranslatør";
 const copyrightAdditionalAuthors = ', <a href="https://steffenhoeder.de/" title="Homepage of Steffen Höder">Steffen Höder</a>';
-const additionalFooter = '<br>This is an adaption of <a href="https://github.com/abelbabel/symbotrans" title="github project page of symbotrans">symbotrans</a>.';
+const additionalFooter = '<br>' + title + ' is an adaption of <a href="https://github.com/abelbabel/symbotrans" title="github project page of symbotrans">symbotrans</a>.';
 
 const licenseName = "";
 
