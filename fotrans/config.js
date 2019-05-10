@@ -40,5 +40,6 @@ let removeSmallerDstParts = true;
 let expertMode = false;
 let outputOnly = false;
 
+let bracketPartDetection = true;
 let input_limit = 18;
 
