@@ -8,12 +8,23 @@
  *
  */
 
-/**** Example
- * @font-face {
- *   font-family: 'Doulos SIL';
- *   src: url('DoulosSILRegular.ttf') format('truetype');
- *   font-weight: normal;
- *   font-style: normal;
- * }
- */
+@font-face {
+  font-family: 'Doulos SIL';
+  src: url('DoulosSILRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('NotoSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto Serif-italics';
+  src: url('NotoSerif-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
